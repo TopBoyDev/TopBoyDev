@@ -31,4 +31,16 @@
 - ![Customer Service](https://img.shields.io/badge/-Customer%20Service-0078D7?style=flat&logo=customer-service&logoColor=white)
 - ![Critical Thinking](https://img.shields.io/badge/-Critical%20Thinking-0078D7?style=flat&logo=critical-thinking&logoColor=white)
 
+## Projects
+### Built using my New tech stack:
+- [April8s](https://april8s.web.app/)
+- [SchoolInDrive](https://schoolindrive.web.app/)
+- [SendSM1 App (Re-build in progress)](https://sendsm1-app.web.app/)
+- [SendSM1 Admin Dashboard](https://sendsm1-admin.web.app/dashboard)
+- [Podcast and Chill MG](https://podcastandchillmg.web.app/)
+
+### Built using my old tech stack:
+- [SendSM1](https://sendsm1.com/)
+- [ItemUsed](https://itemused.sendsm1.com/)
+
 I'm excited to contribute to dynamic tech environments and collaborate on innovative projects! 💻💡
