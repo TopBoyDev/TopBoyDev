@@ -30,6 +30,12 @@
 - ![UI Design](https://img.shields.io/badge/-UI%20Design-5C5543?style=flat&logo=uidesign&logoColor=white)
 - ![Customer Service](https://img.shields.io/badge/-Customer%20Service-0078D7?style=flat&logo=customer-service&logoColor=white)
 - ![Critical Thinking](https://img.shields.io/badge/-Critical%20Thinking-0078D7?style=flat&logo=critical-thinking&logoColor=white)
+- ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+- ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
+- ![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)
+- ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
+- ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white)
+
 
 ## Projects
 ### Built using my New tech stack:
