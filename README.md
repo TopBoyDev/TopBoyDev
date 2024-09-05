@@ -33,14 +33,14 @@
 
 ## Projects
 ### Built using my New tech stack:
+- [SendSM1 App 3.1](https://sendsm1-app.web.app/)
+- [SendSecretly 1.0](https://sendsecretly.web.app/)
 - [April8s](https://april8s.web.app/)
 - [SchoolInDrive](https://schoolindrive.web.app/)
-- [SendSM1 App (Re-build in progress)](https://sendsm1-app.web.app/)
 - [SendSM1 Admin Dashboard](https://sendsm1-admin.web.app/dashboard)
 - [Podcast and Chill MG](https://podcastandchillmg.web.app/)
 
 ### Built using my old tech stack:
-- [SendSM1](https://sendsm1.com/)
 - [ItemUsed](https://itemused.sendsm1.com/)
 
 I'm excited to contribute to dynamic tech environments and collaborate on innovative projects! 💻💡
