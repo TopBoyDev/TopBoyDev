@@ -35,7 +35,9 @@
 ### Built using my New tech stack:
 - [SendSm1 App 3.1](https://sendsm1-app.web.app/)
 - ![SendSm1 Screenshot](https://firebasestorage.googleapis.com/v0/b/tyresesoftware.appspot.com/o/Assets%2FDope%20App%20Designs%20(1).webp?alt=media&token=b60f243e-c405-4241-8959-71b9d2c9ee52)
+  ![SendSm1 Screenshot](https://firebasestorage.googleapis.com/v0/b/tyresesoftware.appspot.com/o/Assets%2FDope%20App%20Designs%20(4).webp?alt=media&token=36767f0b-ef3f-4a36-affe-af0c8dc1f015)
 - [SendSecretly 1.0](https://sendsecretly.web.app/)
+- ![SendSecretly Screenshot](https://firebasestorage.googleapis.com/v0/b/tyresesoftware.appspot.com/o/Assets%2FDope%20App%20Designs%20(3).webp?alt=media&token=31c8ad45-34e4-4b62-9a91-f337bf39017e)
 - [April8s](https://april8s.web.app/)
 - [SchoolInDrive](https://schoolindrive.web.app/)
 - [SendSM1 Admin Dashboard](https://sendsm1-admin.web.app/dashboard)
