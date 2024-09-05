@@ -33,7 +33,7 @@
 
 ## Projects
 ### Built using my New tech stack:
-- [SendSM1 App 3.1](https://sendsm1-app.web.app/)
+- [SendSm1 App 3.1](https://sendsm1-app.web.app/)
 - [SendSecretly 1.0](https://sendsecretly.web.app/)
 - [April8s](https://april8s.web.app/)
 - [SchoolInDrive](https://schoolindrive.web.app/)
