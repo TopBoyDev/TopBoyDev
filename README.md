@@ -34,7 +34,8 @@
 ## Projects
 ### Built using my New tech stack:
 - [SendSm1 App 3.1](https://sendsm1-app.web.app/)
-- [SendSecretly 1.0](https://sendsecretly.web.app/)
+- ![SendSm1 Screenshot](https://link-to-screenshot.com/screenshot1.png)
+- [SendSecretly 1.0]([https://sendsecretly.web.app/](https://firebasestorage.googleapis.com/v0/b/tyresesoftware.appspot.com/o/Assets%2FDope%20App%20Designs%20(1).webp?alt=media&token=b60f243e-c405-4241-8959-71b9d2c9ee52))
 - [April8s](https://april8s.web.app/)
 - [SchoolInDrive](https://schoolindrive.web.app/)
 - [SendSM1 Admin Dashboard](https://sendsm1-admin.web.app/dashboard)
