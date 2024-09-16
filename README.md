@@ -28,8 +28,6 @@
 - ![MS Word & Excel](https://img.shields.io/badge/-MS%20Word%20&%20Excel-217346?style=flat&logo=microsoft-office&logoColor=white)
 - ![UX Design](https://img.shields.io/badge/-UX%20Design-5C5543?style=flat&logo=uxdesign&logoColor=white)
 - ![UI Design](https://img.shields.io/badge/-UI%20Design-5C5543?style=flat&logo=uidesign&logoColor=white)
-- ![Customer Service](https://img.shields.io/badge/-Customer%20Service-0078D7?style=flat&logo=customer-service&logoColor=white)
-- ![Critical Thinking](https://img.shields.io/badge/-Critical%20Thinking-0078D7?style=flat&logo=critical-thinking&logoColor=white)
 - ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 - ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
 - ![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)
@@ -40,6 +38,9 @@
 ## Projects
 ### Built using my New tech stack:
 - [SendSm1 App 3.1](https://sendsm1-app.web.app/)
+- I developed and launched a successful application, SendSm1.com,
+achieving over 700 deliveries to date. Led the project from initial
+concept through to full implementation. To create the first version,
 - ![SendSm1 Screenshot](https://firebasestorage.googleapis.com/v0/b/tyresesoftware.appspot.com/o/Assets%2FDope%20App%20Designs%20(1).webp?alt=media&token=b60f243e-c405-4241-8959-71b9d2c9ee52)
   ![SendSm1 Screenshot](https://firebasestorage.googleapis.com/v0/b/tyresesoftware.appspot.com/o/Assets%2FDope%20App%20Designs%20(4).webp?alt=media&token=36767f0b-ef3f-4a36-affe-af0c8dc1f015)
 - [SendSecretly 1.0](https://sendsecretly.web.app/)
