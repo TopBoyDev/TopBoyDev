@@ -27,11 +27,6 @@
 
 I developed and launched a successful application, **SendSm1.com**, achieving over **700 deliveries** to date. I led the project from initial concept through to full implementation.
 
-- To create the first version, I utilized:
-  - Firebase for authentication and database management.
-  - Vue.js for the frontend interface.
-  - Google Cloud Functions for serverless backend operations.
-
 #### View SendSm1 Deliveries:
 You can view **386 different SendSm1 deliveries** in a single picture. Zoom in to explore details:  
 [View Poster](https://firebasestorage.googleapis.com/v0/b/sendsm1-app.appspot.com/o/Assets%2FBiggest%20SendSm1%20Poster%20100%20.webp?alt=media&token=10896160-6cae-4695-ba9a-2d4b71e00650)
