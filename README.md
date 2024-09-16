@@ -1,5 +1,10 @@
 # Tyrese Makhubele
-**Full Stack Web App Developer | Entrepreneur | IT Graduate | Analyst**
+
+### **Full Stack Web App Developer | Entrepreneur | IT Graduate | Analyst**
+
+> "Bringing Ideas to Life"
+
+---
 
 ## Skills
 ### Front-end Development 💻
@@ -51,17 +56,32 @@ I developed and launched a successful application, **SendSm1.com**, achieving ov
 You can view **386 different SendSm1 deliveries** in a single picture. Zoom in to explore details:  
 [View Poster](https://firebasestorage.googleapis.com/v0/b/sendsm1-app.appspot.com/o/Assets%2FBiggest%20SendSm1%20Poster%20100%20.webp?alt=media&token=10896160-6cae-4695-ba9a-2d4b71e00650)
 
-#### Screenshots:
+#### App Screenshots:
 ![SendSm1 Screenshot](https://firebasestorage.googleapis.com/v0/b/tyresesoftware.appspot.com/o/Assets%2FDope%20App%20Designs%20(1).webp?alt=media&token=b60f243e-c405-4241-8959-71b9d2c9ee52)
 ![SendSm1 Screenshot](https://firebasestorage.googleapis.com/v0/b/tyresesoftware.appspot.com/o/Assets%2FDope%20App%20Designs%20(4).webp?alt=media&token=36767f0b-ef3f-4a36-affe-af0c8dc1f015)
 
-  
-- [SendSecretly 1.0](https://sendsecretly.web.app/)
-- ![SendSecretly Screenshot](https://firebasestorage.googleapis.com/v0/b/tyresesoftware.appspot.com/o/Assets%2FDope%20App%20Designs%20(3).webp?alt=media&token=31c8ad45-34e4-4b62-9a91-f337bf39017e)
-- [April-8 Live Game](https://april8s.web.app/)
-- - ![April 8 Screenshot](https://firebasestorage.googleapis.com/v0/b/april8s.appspot.com/o/Assets%2FDope%20App%20Designs%20(7).webp?alt=media&token=322543bc-8f30-411f-be57-f048b195949c)
-- [SchoolInDrive](https://schoolindrive.web.app/)
-- [Podcast and Chill MG](https://podcastandchillmg.web.app/)
+---
+
+#### [April-8 Live Game](https://april8s.web.app/)
+
+**April-8** is an exhilarating game that puts your skills to the test! Leap over obstacles marked with the iconic number '8' as speeds and scores increase. Compete with friends on the live leaderboard to see who can achieve the highest score.
+
+I launched this project as a birthday challenge to myself on **8 April**, and it was recently featured on **Trend Hunter**, the world's largest and most popular trend community.
+
+#### Game Screenshot:
+![April 8 Screenshot](https://firebasestorage.googleapis.com/v0/b/april8s.appspot.com/o/Assets%2FDope%20App%20Designs%20(7).webp?alt=media&token=322543bc-8f30-411f-be57-f048b195949c)
+
+---
+
+#### [SendSecretly 1.0](https://sendsecretly.web.app/)
+
+**SendSecretly** is a web application that allows users to send anonymous messages to each other. My motivation for creating this was to address issues I noticed in other anonymous messaging apps, aiming to build a better version.
+
+You can test it using the link below and search for my account with the username **tyrese**. Feel free to create your own account and give it a try.
+
+#### App Screenshot:
+![SendSecretly Screenshot](https://firebasestorage.googleapis.com/v0/b/tyresesoftware.appspot.com/o/Assets%2FDope%20App%20Designs%20(3).webp?alt=media&token=31c8ad45-34e4-4b62-9a91-f337bf39017e)
+
 
 ### Built using my old tech stack:
 - [ItemUsed](https://itemused.sendsm1.com/)
