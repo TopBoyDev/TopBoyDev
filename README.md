@@ -1,6 +1,6 @@
 # Tyrese Makhubele
 
-### **Full Stack Web App Developer | Entrepreneur | IT Graduate | Analyst**
+### **Full Stack Web App Developer | Entrepreneur | Tuks Alumni | Analyst**
 
 > "Bringing Ideas to Life"
 
