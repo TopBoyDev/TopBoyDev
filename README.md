@@ -68,17 +68,4 @@ I led the project from concept to deployment, using Firebase, Tailwind CSS, and 
 ![SendSm1 Screenshot](https://firebasestorage.googleapis.com/v0/b/tyresesoftware.appspot.com/o/Assets%2FDope%20App%20Designs%20\(4\).webp?alt=media\&token=36767f0b-ef3f-4a36-affe-af0c8dc1f015)
 
 ---
-
-#### [April-8 Live Game](https://april8s.web.app/)
-
-**April-8** is a fast-paced arcade game that challenges players to leap over obstacles marked “8” as speed and difficulty increase.
-Players compete on a **live leaderboard** powered by Firebase and Express.js.
-
-Launched as a **birthday challenge** on April 8 and featured on **Trend Hunter**, the world's largest trend community.
-
-**Game Preview:**
-![April-8 Game Screenshot](https://firebasestorage.googleapis.com/v0/b/tyresesoftware.appspot.com/o/Assets%2FApril8%20Game.webp?alt=media\&token=727bbad8-86d8-4ef0-a468-34c0e5cbdc8b)
-
---
-
-⭐ *“Building digital products that actually work — one pixel and one API at a time.”*
+#### [April-8 Live Game](https://april8s.web.app/) **April-8** is an exhilarating game that puts your skills to the test! Leap over obstacles marked with the iconic number '8' as speeds and scores increase. Compete with friends on the live leaderboard to see who can achieve the highest score. I launched this project as a birthday challenge to myself on **8 April**, and it was recently featured on **Trend Hunter**, the world's largest and most popular trend community. #### Game Screenshot: ![April 8 Screenshot](https://firebasestorage.googleapis.com/v0/b/april8s.appspot.com/o/Assets%2FDope%20App%20Designs%20(7).webp?alt=media&token=322543bc-8f30-411f-be57-f048b195949c) --- #### [SendSecretly 1.0](https://sendsecretly.web.app/) **SendSecretly** is a web application that allows users to send anonymous messages to each other. My motivation for creating this was to address issues I noticed in other anonymous messaging apps, aiming to build a better version. You can test it using the link below and search for my account with the username **tyrese**. Feel free to create your own account and give it a try. #### App Screenshot: ![SendSecretly Screenshot](https://firebasestorage.googleapis.com/v0/b/tyresesoftware.appspot.com/o/Assets%2FDope%20App%20Designs%20(3).webp?alt=media&token=31c8ad45-34e4-4b62-9a91-f337bf39017e)
